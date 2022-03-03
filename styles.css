@@ -1,0 +1,33 @@
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+  }
+  
+table, td, th {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  .obrazek {
+      width: 200px;
+      height: auto;
+  }
+  hr {
+      margin-top: 30px;
+  }
+  .odsazeni {
+      padding-right: 10%;
+      padding-left: 10%;
+  }
+  .ok {
+      width: 70%;
+  }
+  body {
+      background-color: rgb(31, 29, 29);
+  }
+  .b {
+      color: white;
+  }
+  .c {
+      
+  }
