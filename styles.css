@@ -5,7 +5,7 @@ table {
   }
   
 table, td, th {
-    border: 1px solid black;
+    border: 1px solid white;
     border-collapse: collapse;
   }
   .obrazek {
@@ -20,7 +20,7 @@ table, td, th {
       padding-left: 10%;
   }
   .ok {
-      width: 70%;
+      width: 100%;
   }
   body {
       background-color: rgb(31, 29, 29);
@@ -29,5 +29,8 @@ table, td, th {
       color: white;
   }
   .c {
-      
+      text-align: center;
+  }
+  .k {
+      color: purple;
   }
